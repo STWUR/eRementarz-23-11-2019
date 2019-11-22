@@ -1,0 +1,80 @@
+---
+title: "Wprowadzenie"
+author: "Michal Burdukiewicz"
+date: "23 października 2019"
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+## Podziękowania
+
+<div style="float: left; width: 50%; font-size:20px;">
+
+ - Paweł Bogdan
+ - Łukasz Bombała
+ - **Jarosław Chilimoniuk**
+ - Mateusz Czupała
+ - Marcin Kucharski
+ - Łukasz Łaszczuk
+ - Maciej Małecki
+
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+
+ - Bartosz Pawliczak
+ - Filip Pietluch
+ - Daria Puchalska
+ - Dominik Rafacz
+ - Katarzyna Sidorczuk
+ - Patryk Wielopolski
+
+</div>
+
+
+## Podziękowania
+
+<img src="stwury2.jpg" height="80%" width="80%" class="center"/>
+
+Bartłomiej Karaban, Bartosz Kolasa, Michał Kurtys.
+
+## Podziękowania
+
+A także:
+
+ - Jakub Kwiecień,
+ - Mateusz Staniak.
+ 
+## Podziękowania specjalne
+
+<img src="piotr.jpg" height="70%" width="70%" class="center"/>
+
+Piotr Sobczyk, http://szychtawdanych.pl/
+
+## Podziękowania
+
+Sponsor: McKinsey & Company.
+
+Instruktorzy: Koło Naukowe Statystyki Matematycznej Gauss, Doktoranckie Koło Naukowe Bioinformatyki.
+
+Wsparcie organizacyjne: Fundacja Why R?.
+
+Partnerzy medialni: MLinPL, R-Ladies Warsaw.
