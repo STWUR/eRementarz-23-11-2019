@@ -169,13 +169,13 @@ Pierwsze spotkanie: 30-01-2017.
 </div>
 
 <div style="float: right; width: 50%;">
-Pizza Bravo:
+Pizzeria Bravo:
 
-- 22 x Uczta serowa
-- 22 x Funghi
-- 22 x Chili con carne
-- 22 x Bravo
-- 22 x Roma
+- 27 x Uczta serowa
+- 27 x Funghi
+- 27 x Chili con carne
+- 27 x Bravo
+- 27 x Roma
 </div>  
 
 
@@ -190,7 +190,7 @@ Pizza Bravo:
 - 12:45-13:30 - przerwa na pizzę
 - 13:30-14:20 - wizualizacja danych w R, cz. II
 - 14:20-14:45 - przerwa kawowa
-- 14:45-15:30 - **modelowanie w R**
+- **14:45-15:30 - modelowanie w R**
 - 15:30-15:45 - grupowe zdjęcie
 - 15:45-16:15 - wręczenie certyfikatów
 - 16:30-… - planszówki w Remont Bar dla chętnych
@@ -202,6 +202,76 @@ Pizza Bravo:
 **Dominik Rafacz**: Student Inżynierii i Analizy Danych na Politechnice Warszawskiej, członek Koła Naukowego Data Science PW, programista i entuzjasta **R**.
 
 </div>  
+
+## Grupowe zdjęcie
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- **15:30-15:45 - grupowe zdjęcie**
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+<img src="wspolne.jpg" height="80%" width="80%" class="center"/>
+
+</div>  
+
+## Grupowe zdjęcie
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- **15:45-16:15 - wręczenie certyfikatów**
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+Certyfikaty odbieramy w holu na dole schodów.
+
+Jeśli jeszcze Twoje dane nie są na meetupie/formularzu, to najwyższy czas je dodać :)  
+
+</div>  
+
+## Grupowe zdjęcie
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- **16:30-… - planszówki w Remont Bar dla chętnych**
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+<img src="bartosz_p.png" height="80%" width="80%" class="center"/>
+
+Duże podziękowania dla Bartosza Pawliczaka za organizację planszówek! 
+</div>  
+
 
 ## Podziękowania
 
