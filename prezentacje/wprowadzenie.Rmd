@@ -1,0 +1,214 @@
+---
+title: "Wprowadzenie"
+author: "Michal Burdukiewicz"
+date: "23 października 2019"
+output: 
+  ioslides_presentation:
+    theme: "simplex"
+---
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<style>
+slides > slide {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+</style>
+
+## Wprowadzenie
+
+<img src="stwur.svg" height="70%" width="70%" class="center"/>
+
+## Wprowadzenie
+
+<img src="stwury.jpg" height="70%" width="70%" class="center"/>
+
+Społeczność wrocławskich użytkowników **R** skupiona wokół promocji data science. 
+
+Pierwsze spotkanie: 30-01-2017.
+
+## Plan spotkania
+
+<div style="float: left; width: 50%; font-size:20px;">
+- **10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny**
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%;">
+<img src="stwur.svg" height="40%" width="40%" class="center"/>
+</div>
+
+## Wstęp do przetwarzania danych
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- **10:10-11:00 - wstęp do przetwarzania danych w R**
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+<img src="pawel2.jpg" height="45%" width="45%" class="center"/>
+
+**Paweł Popławski**: pracownik McKinsey&Company, zajmuje się analizą danych dotyczących funkcjonowania, zarządzania i usprawniania organizacji, zarówno z perspektywy pracodawcy jak i pracownika. 
+</div>
+
+## Wstęp do przetwarzania danych
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- **11:00-11:30 - prezentacja McKinsey & Company**
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+<img src="marta.jpg" height="40%" width="40%"/>
+<img src="mateusz2.png" height="40%" width="40%"/>
+
+**Marta Swiniarska**: Starszy Koordynator ds. Rekrutacji, w McKinsey od ponad 7 lat. Obecnie prowadzi strategiczne działania rekrutacyjne i brandingowe dla EMEA Advanced Analytics Hub zlokalizowanego w McKinsey & Company we Wrocławiu.
+
+**Mateusz Czupala**: Intern w zespole Advanced Analytics (Matematyka, PWr).
+</div>
+ 
+## Przerwa kawowa
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- **11:30-11:50 - przerwa kawowa**
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%;">
+<img src="stwur.svg" height="40%" width="40%" class="center"/>
+</div> 
+ 
+## Wizualizacja danych
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- **11:50-12:45 - wizualizacja danych w R, cz. I**
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+<img src="Michal_kolko3.gif" height="80%" width="80%" class="center"/>
+
+**Michał Burdukiewicz**: Bioinformatyk, wykładowca (MI<sup>2</sup> DataLab, Wydział Matematyki i Nauk Informacyjnych PW), pasjonat i popularyzator **R**, współzałożyciel STWURa, Fundacji Why R? i DKNB, współorganizator największej polskiej konferencji o **R** i ża**R**łok. 
+
+</div> 
+ 
+## Przerwa na pizzę
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- **12:45-13:30 - przerwa na pizzę**
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - modelowanie w R
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%;">
+Pizza Bravo:
+
+- 22 x Uczta serowa
+- 22 x Funghi
+- 22 x Chili con carne
+- 22 x Bravo
+- 22 x Roma
+</div>  
+
+
+## Wizualizacja danych
+
+<div style="float: left; width: 50%; font-size:20px;">
+- 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
+- 10:10-11:00 - wstęp do przetwarzania danych w R
+- 11:00-11:30 - prezentacja McKinsey & Company
+- 11:30-11:50 - przerwa kawowa
+- 11:50-12:45 - wizualizacja danych w R, cz. I
+- 12:45-13:30 - przerwa na pizzę
+- 13:30-14:20 - wizualizacja danych w R, cz. II
+- 14:20-14:45 - przerwa kawowa
+- 14:45-15:30 - **modelowanie w R**
+- 15:30-15:45 - grupowe zdjęcie
+- 15:45-16:15 - wręczenie certyfikatów
+- 16:30-… - planszówki w Remont Bar dla chętnych
+</div>
+
+<div style="float: right; width: 50%; font-size:20px;">
+<img src="dominik.jpg" height="80%" width="80%" class="center"/>
+
+**Dominik Rafacz**: Student Inżynierii i Analizy Danych na Politechnice Warszawskiej, członek Koła Naukowego Data Science PW, programista i entuzjasta **R**.
+
+</div>  
+
+## Podziękowania
+
+Sponsor: McKinsey & Company.
+
+Instruktorzy: Koło Naukowe Statystyki Matematycznej Gauss, Doktoranckie Koło Naukowe Bioinformatyki.
+
+Wsparcie organizacyjne: Fundacja Why R?.
+
+Partnerzy medialni: MLinPL, R-Ladies Warsaw.
