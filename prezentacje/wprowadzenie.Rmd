@@ -179,7 +179,7 @@ Pizza Bravo:
 </div>  
 
 
-## Wizualizacja danych
+## Modelowanie w R
 
 <div style="float: left; width: 50%; font-size:20px;">
 - 10:00-10:10 - otwarcie spotkania i krótki wstęp niemerytoryczny
