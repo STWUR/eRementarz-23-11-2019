@@ -16,7 +16,7 @@ knitr::opts_chunk$set(fig.align = "center",
 
 **Modelowanie matematyczne** 
 
-Chemy móc opisać pewne zjawisko z rzeczywistego świata za pomocą matematyki, aby potem, na podstawie wykreowanego *modelu*, móc wyciagać pewne wnioski używając narzędzi matematycznych
+Chcemy móc opisać pewne zjawisko z rzeczywistego świata za pomocą matematyki, aby potem, na podstawie wykreowanego *modelu*, móc wyciagać pewne wnioski używając narzędzi matematycznych
 
 **Uczenie maszynowe (machine learning, ML)**
 
