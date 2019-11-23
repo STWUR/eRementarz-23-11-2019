@@ -1,5 +1,5 @@
 ---
-title: "Wprowadzenie"
+title: "Wprowadzenie do zakończenia"
 author: "Michal Burdukiewicz"
 date: "23 października 2019"
 output: 
@@ -79,6 +79,11 @@ Piotr Sobczyk, http://szychtawdanych.pl/
 ## Podziękowania
 
 <img src="nowe.jpg" height="70%" width="70%" class="center"/>
+
+## Social media
+
+ - https://www.facebook.com/stwur/
+ - https://www.facebook.com/whyRconf/
 
 ## Podziękowania
 
