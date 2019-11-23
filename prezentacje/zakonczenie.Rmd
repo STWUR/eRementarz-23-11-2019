@@ -24,6 +24,13 @@ slides > slide {
 
 </style>
 
+
+## Spotkanie STWURa
+
+Najbliższe spotkanie: 26.11.2019 o 19:00.
+
+*Integracja dużych zbiorów danych za pomocą sieci korelacyjnych*, Aneta Sawikowska (Xenstats)
+
 ## Podziękowania
 
 <div style="float: left; width: 50%; font-size:20px;">
@@ -68,6 +75,10 @@ A także:
 <img src="piotr.jpg" height="70%" width="70%" class="center"/>
 
 Piotr Sobczyk, http://szychtawdanych.pl/
+
+## Podziękowania
+
+<img src="nowe.jpg" height="70%" width="70%" class="center"/>
 
 ## Podziękowania
 
